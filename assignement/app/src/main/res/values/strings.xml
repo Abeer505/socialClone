@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">assignement</string>
+    <string name="user_name">Johnny Depp</string>
+    <string name="last_seen">20 Minutes ago</string>
+    <string name="dumy_desc">This one is dummy paragraparh just to make sure things are working properly</string>
+    <string name="likes">3456</string>
+    <string name="comments">254</string>
+    <string name="bio">American actor, producer, and musician.
+        #nominated for ten Globe Awards</string>
+    <string name="label">Photos</string>
+</resources>
